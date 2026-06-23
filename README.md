@@ -1,1 +1,3 @@
-# github-workshop-2026-june
+# GitHub Workshop June 2026
+
+This is my **wonderful** example of [Markdown](https://www.markdownguide.org/).
